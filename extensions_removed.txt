@@ -1,0 +1,5 @@
+
+1. Extension Removed: Lightweight Userscript Manager
+   - Version: 2.0.8
+   - Reason: Broad permissions, unverified scripts, added by third party
+   - Action: Removed from browser
